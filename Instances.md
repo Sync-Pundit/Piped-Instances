@@ -4,4 +4,3 @@ Instance Name | Instance API URL | Instance Location(s) | CDN
 --- | --- | --- | ---
 kavin.rocks (Official) | https://pipedapi.kavin.rocks | 🇺🇸, 🇮🇳, 🇳🇱, 🇯🇵, 🇬🇧 | Yes
 silkky.cloud | https://api.piped.silkky.cloud | 🇫🇮 | Yes
-jae.fi | https://pipedapi.jae.fi | 🇫🇮 | No
