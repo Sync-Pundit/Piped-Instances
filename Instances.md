@@ -4,3 +4,4 @@ Instance Name | Instance API URL | Instance Location(s) | CDN | Registered Users
 --- | --- | --- | --- | ---
 kavin.rocks (Official) | https://pipedapi.kavin.rocks | 🇺🇸, 🇮🇳, 🇳🇱, 🇯🇵, 🇬🇧 | Yes | ![](https://pipedapi.kavin.rocks/registered/badge)
 silkky.cloud | https://api.piped.silkky.cloud | 🇫🇮 | Yes | ![](https://api.piped.silkky.cloud/registered/badge)
+mutahar.rocks | https://pipedapi.mutahar.rocks | 🇫🇷 | No | ![](https://pipedapi.mutahar.rocks/registered/badge)
