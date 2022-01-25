@@ -6,5 +6,4 @@ kavin.rocks (Official) | https://pipedapi.kavin.rocks | 🇺🇸, 🇮🇳, 🇳
 silkky.cloud | https://api.piped.silkky.cloud | 🇫🇮 | Yes | ![](https://api.piped.silkky.cloud/registered/badge)
 tokhmi.xyz | https://pipedapi.tokhmi.xyz | 🇺🇸 | Yes | ![](https://pipedapi.tokhmi.xyz/registered/badge)
 moomoo.me | https://pipedapi.moomoo.me | 🇺🇸 | Yes | ![](https://pipedapi.moomoo.me/registered/badge)
-mutahar.rocks | https://pipedapi.mutahar.rocks | 🇫🇷 | No | ![](https://pipedapi.mutahar.rocks/registered/badge)
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
