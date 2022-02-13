@@ -5,5 +5,5 @@ Instance Name | Instance API URL | Instance Location(s) | CDN | Registered Users
 kavin.rocks (Official) | https://pipedapi.kavin.rocks | 🇺🇸, 🇮🇳, 🇳🇱, 🇯🇵, 🇬🇧 | Yes | ![](https://pipedapi.kavin.rocks/registered/badge)
 silkky.cloud | https://api.piped.silkky.cloud | 🇫🇮 | Yes | ![](https://api.piped.silkky.cloud/registered/badge)
 tokhmi.xyz | https://pipedapi.tokhmi.xyz | 🇺🇸 | Yes | ![](https://pipedapi.tokhmi.xyz/registered/badge)
-moomoo.me | https://pipedapi.moomoo.me | 🇺🇸 | Yes | ![](https://pipedapi.moomoo.me/registered/badge)
+moomoo.me | https://pipedapi.moomoo.me | 🇩🇪 | Yes | ![](https://pipedapi.moomoo.me/registered/badge)
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
