@@ -7,5 +7,5 @@ silkky.cloud | https://api.piped.silkky.cloud | 🇫🇮 | Yes | ![](https://api
 tokhmi.xyz | https://pipedapi.tokhmi.xyz | 🇺🇸 | Yes | ![](https://pipedapi.tokhmi.xyz/registered/badge)
 moomoo.me | https://pipedapi.moomoo.me | 🇩🇪 | Yes | ![](https://pipedapi.moomoo.me/registered/badge)
 il.ax | https://pa.il.ax | 🇺🇸 | Yes | ![](https://pa.il.ax/registered/badge)
-mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
 syncpundit.com | https://pipedapi.syncpundit.com | 🇺🇸 | Yes | ![](https://pipedapi.syncpundit.com/registered/badge)
+mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
