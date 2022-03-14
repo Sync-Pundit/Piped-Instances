@@ -9,3 +9,4 @@ moomoo.me | https://pipedapi.moomoo.me | 🇩🇪 | Yes | ![](https://pipedapi.m
 il.ax | https://pa.il.ax | 🇺🇸 | Yes | ![](https://pa.il.ax/registered/badge)
 syncpundit.com | https://pipedapi.syncpundit.com | 🇺🇸 | Yes | ![](https://pipedapi.syncpundit.com/registered/badge)
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
+exonip.de | https://piped-api.exonip.de | 🇩🇪 | No | ![](https://piped-api.exonip.de/registered/badge)
