@@ -10,3 +10,4 @@ il.ax | https://pa.il.ax | 🇺🇸 | Yes | ![](https://pa.il.ax/registered/badg
 syncpundit.com | https://pipedapi.syncpundit.com | 🇺🇸 | Yes | ![](https://pipedapi.syncpundit.com/registered/badge)
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
 privacy.com.de | https://piped-api.privacy.com.de | 🇩🇪 | No | ![](https://piped-api.privacy.com.de/registered/badge)
+notyourcomputer.net | https://pipedapi.notyourcomputer.net | 🇺🇸 | No | ![](https://pipedapi.notyourcomputer.net/registered/badge)
