@@ -9,6 +9,7 @@ moomoo.me | https://pipedapi.moomoo.me | 🇬🇧 | Yes | ![](https://pipedapi.m
 il.ax | https://pa.il.ax | 🇺🇸 | Yes | ![](https://pa.il.ax/registered/badge)
 syncpundit.com | https://pipedapi.syncpundit.com | 🇺🇸 | Yes | ![](https://pipedapi.syncpundit.com/registered/badge)
 mha.fi | https://api-piped.mha.fi | 🇫🇮 | Yes | ![](https://api-piped.mha.fi/registered/badge)
+shimul.me | https://pipedapi.shimul.me | 🇮🇳 | Yes | ![](https://pipedapi.shimul.me/registered/badge)
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
 privacy.com.de | https://piped-api.privacy.com.de | 🇩🇪 | No | ![](https://piped-api.privacy.com.de/registered/badge)
 notyourcomputer.net | https://pipedapi.notyourcomputer.net | 🇺🇸 | No | ![](https://pipedapi.notyourcomputer.net/registered/badge)
