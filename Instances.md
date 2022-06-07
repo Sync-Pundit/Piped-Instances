@@ -9,6 +9,7 @@ il.ax | https://pa.il.ax | 🇺🇸 | Yes | ![](https://pa.il.ax/registered/badg
 syncpundit.com | https://pipedapi.syncpundit.com | 🇺🇸 | Yes | ![](https://pipedapi.syncpundit.com/registered/badge)
 mha.fi | https://api-piped.mha.fi | 🇫🇮 | Yes | ![](https://api-piped.mha.fi/registered/badge)
 shimul.me | https://api-piped.shimul.me | 🇮🇳, 🇯🇵, 🇺🇸, 🇩🇪, 🇸🇦 | Yes | ![](https://api-piped.shimul.me/registered/badge)
+jae.fi | https://api.yt.jae.fi | 🇫🇮 | No | ![](https://api.yt.jae.fi/registered/badge)
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
 privacy.com.de | https://piped-api.privacy.com.de | 🇩🇪 | No | ![](https://piped-api.privacy.com.de/registered/badge)
 
