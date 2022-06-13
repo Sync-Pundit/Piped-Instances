@@ -12,4 +12,4 @@ shimul.me | https://api-piped.shimul.me | 🇮🇳, 🇯🇵, 🇺🇸, 🇩🇪
 jae.fi | https://api.yt.jae.fi | 🇫🇮 | No | ![](https://api.yt.jae.fi/registered/badge)
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
 privacy.com.de | https://piped-api.privacy.com.de | 🇩🇪 | No | ![](https://piped-api.privacy.com.de/registered/badge)
-
+esmailelbob.xyz | https://pipedapi.esmailelbob.xyz | 🇨🇦 | No | ![](https://pipedapi.esmailelbob.xyz/registered/badge)
