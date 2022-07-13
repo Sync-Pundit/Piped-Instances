@@ -14,3 +14,4 @@ jae.fi | https://api.yt.jae.fi | 🇫🇮 | No | ![](https://api.yt.jae.fi/regis
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
 privacy.com.de | https://piped-api.privacy.com.de | 🇩🇪 | No | ![](https://piped-api.privacy.com.de/registered/badge)
 esmailelbob.xyz | https://pipedapi.esmailelbob.xyz | 🇨🇦 | No | ![](https://pipedapi.esmailelbob.xyz/registered/badge)
+projectsegfau.lt | https://api.piped.projectsegfau.lt | 🇫🇷 | No | ![](https://api.piped.projectsegfau.lt/registered/badge)
