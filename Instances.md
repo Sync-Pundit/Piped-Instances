@@ -10,6 +10,7 @@ syncpundit.com | https://pipedapi.syncpundit.com | 🇺🇸 | Yes | ![](https://
 mha.fi | https://api-piped.mha.fi | 🇫🇮 | Yes | ![](https://api-piped.mha.fi/registered/badge)
 shimul.me | https://api-piped.shimul.me | 🇮🇳, 🇯🇵, 🇺🇸, 🇩🇪, 🇸🇦 | Yes | ![](https://api-piped.shimul.me/registered/badge)
 palash.dev | https://papius.palash.dev | 🇺🇸 | Yes | ![](https://papius.palash.dev/registered/badge)
+waffle.wiki | https://pipedapi.waffle.wiki | 🇷🇺 | Yes | ![](https://pipedapi.waffle.wiki/registered/badge)
 jae.fi | https://api.yt.jae.fi | 🇫🇮 | No | ![](https://api.yt.jae.fi/registered/badge)
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
 privacy.com.de | https://piped-api.privacy.com.de | 🇩🇪 | No | ![](https://piped-api.privacy.com.de/registered/badge)
