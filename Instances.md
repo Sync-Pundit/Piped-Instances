@@ -18,3 +18,4 @@ il.ax | https://pa.il.ax | 🇺🇸 | No | ![](https://pa.il.ax/registered/badge
 privacy.com.de | https://piped-api.privacy.com.de | 🇩🇪 | No | ![](https://piped-api.privacy.com.de/registered/badge)
 esmailelbob.xyz | https://pipedapi.esmailelbob.xyz | 🇨🇦 | No | ![](https://pipedapi.esmailelbob.xyz/registered/badge)
 projectsegfau.lt | https://api.piped.projectsegfau.lt | 🇫🇷 | No | ![](https://api.piped.projectsegfau.lt/registered/badge)
+privacydev.net | https://api.piped.privacydev.net | 🇺🇸 | No | ![](https://api.piped.privacydev.net/registered/badge)
