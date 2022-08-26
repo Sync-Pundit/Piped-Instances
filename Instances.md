@@ -11,6 +11,7 @@ shimul.me | https://api-piped.shimul.me | 🇮🇳, 🇯🇵, 🇺🇸, 🇩🇪
 palash.dev | https://papius.palash.dev | 🇺🇸 | Yes | ![](https://papius.palash.dev/registered/badge)
 waffle.wiki | https://pipedapi.waffle.wiki | 🇷🇺 | Yes | ![](https://pipedapi.waffle.wiki/registered/badge)
 whatever.social | https://watchapi.whatever.social | 🇺🇸 | Yes | ![](https://watchapi.whatever.social/registered/badge)
+garudalinux.org | https://piped-api.garudalinux.org | 🇫🇮 | Yes | ![](https://piped-api.garudalinux.org/registered/badge)
 kavin.rocks libre (Official) | https://pipedapi-libre.kavin.rocks | 🇳🇱 | No | ![](https://pipedapi-libre.kavin.rocks/registered/badge)
 jae.fi | https://api.yt.jae.fi | 🇫🇮 | No | ![](https://api.yt.jae.fi/registered/badge)
 mint.lgbt | https://pa.mint.lgbt | 🇨🇦 | No | ![](https://pa.mint.lgbt/registered/badge)
