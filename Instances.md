@@ -21,3 +21,4 @@ privacy.com.de | https://piped-api.privacy.com.de | 🇩🇪 | No | ![](https://
 esmailelbob.xyz | https://pipedapi.esmailelbob.xyz | 🇨🇦 | No | ![](https://pipedapi.esmailelbob.xyz/registered/badge)
 projectsegfau.lt | https://api.piped.projectsegfau.lt | 🇫🇷 | No | ![](https://api.piped.projectsegfau.lt/registered/badge)
 privacydev.net | https://api.piped.privacydev.net | 🇺🇸 | No | ![](https://api.piped.privacydev.net/registered/badge)
+palveluntarjoaja.eu | https://pipedapi.palveluntarjoaja.eu | 🇫🇷 | No | ![](https://pipedapi.palveluntarjoaja.eu/registered/badge)
