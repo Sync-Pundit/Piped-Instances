@@ -23,4 +23,5 @@ projectsegfau.lt | https://api.piped.projectsegfau.lt | 🇫🇷 | No | ![](http
 privacydev.net | https://api.piped.privacydev.net | 🇺🇸 | No | ![](https://api.piped.privacydev.net/registered/badge)
 palveluntarjoaja.eu | https://pipedapi.palveluntarjoaja.eu | 🇫🇷 | No | ![](https://pipedapi.palveluntarjoaja.eu/registered/badge)
 plibre.com | https://p.plibre.com | 🇮🇸 | No | ![](https://p.plibre.com/registered/badge)
+smnz.de | https://pipedapi.smnz.de | 🇩🇪 | No | ![](https://pipedapi.smnz.de/registered/badge)
 adminforge.de | https://pipedapi.adminforge.de | 🇩🇪 | No | ![](https://pipedapi.adminforge.de/registered/badge)
