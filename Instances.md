@@ -26,3 +26,4 @@ plibre.com | https://p.plibre.com | 🇮🇸 | No | ![](https://p.plibre.com/reg
 smnz.de | https://pipedapi.smnz.de | 🇩🇪 | No | ![](https://pipedapi.smnz.de/registered/badge)
 adminforge.de | https://pipedapi.adminforge.de | 🇩🇪 | No | ![](https://pipedapi.adminforge.de/registered/badge)
 whatevertinfoil.de | https://watchapi.whatevertinfoil.de | 🇩🇪 | No | ![](https://watchapi.whatevertinfoil.de/registered/badge)
+qdi.fi | https://pipedapi.qdi.fi | 🇺🇸 | No | ![](https://pipedapi.qdi.fi/registered/badge)
