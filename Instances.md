@@ -5,7 +5,7 @@ Instance Name | Instance API URL | Instance Location(s) | CDN | Registered Users
 kavin.rocks (Official) | https://pipedapi.kavin.rocks | 🇺🇸, 🇮🇳, 🇳🇱, 🇨🇦, 🇬🇧 | Yes | ![](https://pipedapi.kavin.rocks/registered/badge)
 tokhmi.xyz | https://pipedapi.tokhmi.xyz | 🇺🇸 | Yes | ![](https://pipedapi.tokhmi.xyz/registered/badge)
 moomoo.me | https://pipedapi.moomoo.me | 🇬🇧 | Yes | ![](https://pipedapi.moomoo.me/registered/badge)
-syncpundit.com | https://pipedapi.syncpundit.com | 🇺🇸 | Yes | ![](https://pipedapi.syncpundit.com/registered/badge)
+syncpundit.io | https://pipedapi.syncpundit.io | 🇺🇸 🇬🇧 | Yes | ![](https://pipedapi.syncpundit.io/registered/badge)
 mha.fi | https://api-piped.mha.fi | 🇫🇮 | Yes | ![](https://api-piped.mha.fi/registered/badge)
 shimul.me | https://api-piped.shimul.me | 🇮🇳, 🇯🇵, 🇺🇸, 🇩🇪, 🇸🇦 | Yes | ![](https://api-piped.shimul.me/registered/badge)
 palash.dev | https://papius.palash.dev | 🇺🇸 | Yes | ![](https://papius.palash.dev/registered/badge)
